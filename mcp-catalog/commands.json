@@ -1,0 +1,150 @@
+{
+    "Bibliomantic": {
+        "cmd": "python ../mcp-catalog/bibliomantic-mcp-server/bibliomantic_server.py",
+        "env": []
+    },
+    "BioMCP": {
+        "cmd": "python -m biomcp run",
+        "env": ["ALPHAGENOME_API_KEY", "CBIO_TOKEN"]
+    },
+    "Call for Papers": {
+        "cmd": "python ../mcp-catalog/call-for-papers-mcp/call-for-papers-mcp-main/server.py",
+        "env": []
+    },
+    "Car Price Evaluator": {
+        "cmd": "python ../mcp-catalog/car-price-mcp-main/server.py",
+        "env": []
+    },
+    "Context7": {
+        "cmd": "node ../mcp-catalog/context7-mcp/dist/index.js",
+        "env": []
+    },
+    "DEX Paprika": {
+        "cmd": "node ../mcp-catalog/dexpaprika-mcp/src/index.js",
+        "env": []
+    },
+    "erickwendel-contributions-mcp": {
+        "cmd": "npx tsx src/index.ts",
+        "env": []
+    },
+    "EVE Online": {
+        "cmd": "node ../mcp-catalog/eve-online-mcp/build/index.js",
+        "env": []
+    },
+    "Finance Calculator": {
+        "cmd": "echo 'Finance Calculator temporarily disabled due to Smithery CLI hanging'",
+        "env": []
+    },
+    "FruityVice": {
+        "cmd": "python ../mcp-catalog/fruityvice-mcp/server.py",
+        "env": []
+    },
+    "Game Trends": {
+        "cmd": "python ../mcp-catalog/game-trends-mcp/server.py",
+        "env": []
+    },
+    "Huge Icons": {
+        "cmd": "node ../mcp-catalog/hugeicons-mcp-server/build/index.js",
+        "env": []
+    },
+    "Hugging Face": {
+        "cmd": "python ../mcp-catalog/huggingface-mcp-server/src/huggingface/server.py",
+        "env": []
+    },
+    "Hotel MCP": {
+        "cmd": "node ../mcp-catalog/jinko-mcp/build/index.js",
+        "env": []
+    },
+    "Math MCP": {
+        "cmd": "node ../mcp-catalog/math-mcp/build/index.js",
+        "env": []
+    },
+    "GitHub Trending": {
+        "cmd": "python -m mcp_server_github_trending",
+        "env": []
+    },
+    "NixOS": {
+        "cmd": "python ../mcp-catalog/mcp-nixos/mcp_nixos/server.py",
+        "env": []
+    },
+    "OSINT Intelligence": {
+        "cmd": "python ../mcp-catalog/mcp-osint-server/mcp_osint_server/mcp_osint_server/main.py",
+        "env": []
+    },
+    "Reddit": {
+        "cmd": "python ../mcp-catalog/mcp-reddit/src/mcp_reddit/reddit_fetcher.py",
+        "env": []
+    },
+    "Airbnb Search": {
+        "cmd": "node ../mcp-catalog/mcp-server-airbnb/dist/index.js",
+        "env": []
+    },
+    "LeetCode": {
+        "cmd": "node ../mcp-catalog/mcp-server-leetcode/dist/index.js",
+        "env": []
+    },
+    "National Parks": {
+        "cmd": "node ../mcp-catalog/mcp-server-nationalparks/build/index.js",
+        "env": ["NPS_API_KEY"]
+    },
+    "Unit Converter": {
+        "cmd": "python ../mcp-catalog/mcp-units/mcp_units/server.py",
+        "env": []
+    },
+    "Medical Calculator": {
+        "cmd": "python ../mcp-catalog/medcalc/medcalc/__main__.py",
+        "env": []
+    },
+    "Metropolitan Museum": {
+        "cmd": "node ../mcp-catalog/metmuseum-mcp/dist/index.js",
+        "env": []
+    },
+    "MLB Baseball": {
+        "cmd": "python ../mcp-catalog/mlb-mcp/mlb_stats_mcp/server.py",
+        "env": []
+    },
+    "Movie Recommender": {
+        "cmd": "python ../mcp-catalog/movie-recommender-mcp/movie-reccomender-mcp/server.py",
+        "env": []
+    },
+    "YouTube MCP Server": {
+        "cmd": "node ../mcp-catalog/my-youtube-mcp-server/dist/index.js",
+        "env": ["YOUTUBE_API_KEY"]
+    },
+    "NASA Data": {
+        "cmd": "python ../mcp-catalog/nasa-mcp/src/nasa_mcp/server.py",
+        "env": ["NASA_API_KEY"]
+    },
+    "OKX Exchange": {
+        "cmd": "node ../mcp-catalog/okx-mcp/build/index.js",
+        "env": []
+    },
+    "OP.GG Gaming": {
+        "cmd": "node ../mcp-catalog/opgg-mcp/dist/index.js",
+        "env": []
+    },
+    "Paper Search": {
+        "cmd": "python ../mcp-catalog/paper-search-mcp/paper_search_mcp/server.py",
+        "env": []
+    },
+    "Scientific Computing": {
+        "cmd": "python ../mcp-catalog/scientific_computation_mcp/src/server.py",
+        "env": []
+    },
+    "Sherlock Investigation": {
+        "cmd": "python ../mcp-catalog/sherlock_mcp/main.py",
+        "env": []
+    },
+    "Weather Data": {
+        "cmd": "python ../mcp-catalog/weather_mcp/server.py",
+        "env": ["WEATHER_API_KEY"]
+    },
+    "WhoIs Lookup": {
+        "cmd": "node ../mcp-catalog/whodis-mcp-server/dist/index.js",
+        "env": []
+    },
+    "Wikipedia": {
+        "cmd": "python ../mcp-catalog/wikipedia-mcp/wikipedia_mcp/server.py",
+        "env": []
+    }
+}

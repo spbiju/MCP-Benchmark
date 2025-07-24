@@ -1,0 +1,111 @@
+[submodule "mcp-catalog/mcp-server-nationalparks"]
+	path = mcp-catalog/mcp-server-nationalparks
+	url = https://github.com/KyrieTangSheng/mcp-server-nationalparks
+[submodule "mcp-catalog/mcp-server-airbnb"]
+	path = mcp-catalog/mcp-server-airbnb
+	url = https://github.com/openbnb-org/mcp-server-airbnb
+[submodule "mcp-catalog/dexpaprika-mcp"]
+	path = mcp-catalog/dexpaprika-mcp
+	url = https://github.com/coinpaprika/dexpaprika-mcp
+[submodule "mcp-catalog/finance-calculator"]
+	path = mcp-catalog/finance-calculator
+	url = https://github.com/skavinvarnan/smithery-finance-calculator
+[submodule "mcp-catalog/okx-mcp"]
+	path = mcp-catalog/okx-mcp
+	url = https://github.com/esshka/okx-mcp
+[submodule "mcp-catalog/math-mcp"]
+	path = mcp-catalog/math-mcp
+	url = https://github.com/EthanHenrickson/math-mcp
+[submodule "mcp-catalog/nasa-mcp"]
+	path = mcp-catalog/nasa-mcp
+	url = https://github.com/AnCode666/nasa-mcp
+[submodule "mcp-catalog/jinko-mcp"]
+	path = mcp-catalog/jinko-mcp
+	url = https://github.com/jinkoso/jinko-mcp
+[submodule "mcp-catalog/context7-mcp"]
+	path = mcp-catalog/context7-mcp
+	url = https://github.com/upstash/context7
+[submodule "mcp-catalog/huggingface-mcp-server"]
+	path = mcp-catalog/huggingface-mcp-server
+	url = https://github.com/shreyaskarnik/huggingface-mcp-server
+[submodule "mcp-catalog/whodis-mcp-server"]
+	path = mcp-catalog/whodis-mcp-server
+	url = https://github.com/vinsidious/whodis-mcp-server
+[submodule "mcp-catalog/erickwendel-contributions-mcp"]
+	path = mcp-catalog/erickwendel-contributions-mcp
+	url = https://github.com/ErickWendel/erickwendel-contributions-mcp
+[submodule "mcp-catalog/opgg-mcp"]
+	path = mcp-catalog/opgg-mcp
+	url = https://github.com/opgginc/opgg-mcp
+[submodule "mcp-catalog/mcp-osint-server"]
+	path = mcp-catalog/mcp-osint-server
+	url = https://github.com/himanshusanecha/mcp-osint-server
+[submodule "mcp-catalog/mcp-github-trending"]
+	path = mcp-catalog/mcp-github-trending
+	url = https://github.com/hetaoBackend/mcp-github-trending
+[submodule "mcp-catalog/bibliomantic-mcp-server"]
+	path = mcp-catalog/bibliomantic-mcp-server
+	url = https://github.com/d4nshields/bibliomantic-mcp-server
+[submodule "mcp-catalog/paper-search-mcp"]
+	path = mcp-catalog/paper-search-mcp
+	url = https://github.com/openags/paper-search-mcp
+[submodule "mcp-catalog/hugeicons-mcp-server"]
+	path = mcp-catalog/hugeicons-mcp-server
+	url = https://github.com/hugeicons/mcp-server
+[submodule "mcp-catalog/mcp-nixos"]
+	path = mcp-catalog/mcp-nixos
+	url = https://github.com/utensils/mcp-nixos
+[submodule "mcp-catalog/biomcp"]
+	path = mcp-catalog/biomcp
+	url = https://github.com/genomoncology/biomcp
+[submodule "mcp-catalog/mcp-server-leetcode"]
+	path = mcp-catalog/mcp-server-leetcode
+	url = https://github.com/doggybee/mcp-server-leetcode
+[submodule "mcp-catalog/mlb-mcp"]
+	path = mcp-catalog/mlb-mcp
+	url = https://github.com/etweisberg/mlb-mcp
+[submodule "mcp-catalog/metmuseum-mcp"]
+	path = mcp-catalog/metmuseum-mcp
+	url = https://github.com/mikechao/metmuseum-mcp
+[submodule "mcp-catalog/my-youtube-mcp-server"]
+	path = mcp-catalog/my-youtube-mcp-server
+	url = https://github.com/xianxx17/my-youtube-mcp-server
+[submodule "mcp-catalog/medcalc"]
+	path = mcp-catalog/medcalc
+	url = https://github.com/vitaldb/medcalc
+[submodule "mcp-catalog/mcp-units"]
+	path = mcp-catalog/mcp-units
+	url = https://github.com/sellisd/mcp-units
+[submodule "mcp-catalog/scientific_computation_mcp"]
+	path = mcp-catalog/scientific_computation_mcp
+	url = https://github.com/Aman-Amith-Shastry/scientific_computation_mcp
+[submodule "mcp-catalog/movie-recommender-mcp"]
+	path = mcp-catalog/movie-recommender-mcp
+	url = https://github.com/iremert/movie-recommender-mcp
+[submodule "mcp-catalog/car-price-mcp-main"]
+	path = mcp-catalog/car-price-mcp-main
+	url = https://github.com/yusaaztrk/car-price-mcp-main
+[submodule "mcp-catalog/weather_mcp"]
+	path = mcp-catalog/weather_mcp
+	url = https://github.com/HarunGuclu/weather_mcp
+[submodule "mcp-catalog/game-trends-mcp"]
+	path = mcp-catalog/game-trends-mcp
+	url = https://github.com/halismertkir/game-trends-mcp
+[submodule "mcp-catalog/call-for-papers-mcp"]
+	path = mcp-catalog/call-for-papers-mcp
+	url = https://github.com/iremert/call-for-papers-mcp
+[submodule "mcp-catalog/sherlock_mcp"]
+	path = mcp-catalog/sherlock_mcp
+	url = https://github.com/qKitNp/sherlock_mcp
+[submodule "mcp-catalog/mcp-reddit"]
+	path = mcp-catalog/mcp-reddit
+	url = https://github.com/ruradium/mcp-reddit
+[submodule "mcp-catalog/wikipedia-mcp"]
+	path = mcp-catalog/wikipedia-mcp
+	url = https://github.com/Rudra-ravi/wikipedia-mcp
+[submodule "mcp-catalog/fruityvice-mcp"]
+	path = mcp-catalog/fruityvice-mcp
+	url = https://github.com/CelalKhalilov/fruityvice-mcp
+[submodule "mcp-catalog/eve-online-mcp"]
+	path = mcp-catalog/eve-online-mcp
+	url = https://github.com/kongyo2/eve-online-mcp

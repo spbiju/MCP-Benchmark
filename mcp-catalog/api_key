@@ -1,0 +1,6 @@
+WEATHER_API_KEY = your_weather_api_key
+NPS_API_KEY = your_nps_api_key
+ALPHAGENOME_API_KEY = your_alphagenome_api_key
+CBIO_TOKEN = your_cbio_token
+NASA_API_KEY = your_nasa_api_key
+YOUTUBE_API_KEY = your_youtube_api_key

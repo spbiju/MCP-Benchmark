@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "erickwendel-contributions": {
+      "command": "npm",
+      "args": [
+        "exec",
+        "--",
+        "@smithery/cli@latest",
+        "run",
+        "@ErickWendel/erickwendel-contributions-mcp"
+      ]
+    }
+  }
+}
